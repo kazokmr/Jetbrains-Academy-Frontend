@@ -1,5 +1,7 @@
 # Project Flashcards
 
+https://hyperskill.org/projects/115
+
 This project is by Jetbrains Academy.
 
 ## About
