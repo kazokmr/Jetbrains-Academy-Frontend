@@ -1,0 +1,43 @@
+body {
+    background-color: darkgreen;
+}
+
+.container {
+    position: absolute;
+    top: 40%;
+    left: 35%;
+    width: auto;
+}
+
+kbd {
+    display: inline-block;
+    width: 25px;
+    text-align: center;
+    margin: 0 -3px;
+}
+
+.white-keys kbd {
+    background-color: white;
+    color: black;
+    border: solid gray;
+    height: 100px;
+    line-height: 150px;
+}
+
+.black-keys kbd {
+    background-color: black;
+    color: white;
+    height: 60px;
+    line-height: 70px;
+    margin-right: 4px;
+}
+
+.black-keys {
+    position: absolute;
+    top: 0;
+    left: 17px;
+}
+
+#keyT {
+    margin-left: 23px;
+}
